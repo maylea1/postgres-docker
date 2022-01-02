@@ -31,4 +31,4 @@ workflows:
       - deploy:
           filters:
             branches:
-              only: master
+              only: server-2.15
